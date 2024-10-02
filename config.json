@@ -1,0 +1,7 @@
+{
+	"admins": ["*admin id*", "SeamAftab"],
+	"user": ["Edward"],
+	"telegram_bot_token" : "The telegram_bot_token",
+	"supabase_url" : "the supabase_url",
+	"supabase_key" : "the supabase_key"
+}
